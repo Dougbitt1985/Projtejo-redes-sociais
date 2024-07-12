@@ -31,10 +31,10 @@ section#telefone{
     background-size:250px;
     background-position: center;
 }
-#tela{
+iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 471px;
-    width: 270px;
+    top:112px;
+    left: 50px;    
+    height: 378px;
+    width: 212px;
 }
